@@ -1,7 +1,7 @@
 # grafika-hazi-2
 Napfénycső szimulátor.
 
-A repository egy Visual Studio solution. A működéshez esetleg szükség lehet retarget-re vagy egyéb konfigurációra.
+A repository egy Visual Studio solution (*.sln* fájl: *src/Programs/Skeleton* mappában). A működéshez esetleg szükség lehet retarget-re vagy egyéb konfigurációra.
 
 A kép kirendereléséhez várni kell a gép teljesítményétől függően 5-30 másodpercet. Release módban gyorsabban lefut, mint debug módban.
 
